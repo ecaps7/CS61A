@@ -1,0 +1,3 @@
+'regex_grouping-correct', (0, 66)
+'regex_classes-correct', (512, 66)
+'regex_quantifiers-correct', (1024, 66)
